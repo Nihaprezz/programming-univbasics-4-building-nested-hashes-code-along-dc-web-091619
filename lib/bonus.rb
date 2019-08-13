@@ -21,9 +21,9 @@ def bonus
   }
 
   #code your solution here:
-
+fourth_challenge[:montague][:hero][:status]
+fourth_challenge[:capulet][:heroine][:status]
   
-
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
 end
