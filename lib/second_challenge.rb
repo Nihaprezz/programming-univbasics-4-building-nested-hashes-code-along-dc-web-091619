@@ -10,8 +10,8 @@ epic_tradegy = {
   :capulet => {
     :patriarch => {},
     :matriarch => {},
-    :hero => {},
-    :hero_friends => []
+    :heroine => {},
+    :heroine_friends => []
   }
 }
 
