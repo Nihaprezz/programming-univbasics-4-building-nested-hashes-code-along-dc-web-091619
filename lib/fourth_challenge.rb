@@ -18,7 +18,7 @@ epic_tradegy = {
       {
         :name => "Benvolio",
         :age => "17",
-        :attitude => "Worried"
+        :attitude => "worried"
       },
       {
         :name => "Mercutio",
